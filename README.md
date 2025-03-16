@@ -19,7 +19,7 @@ A tool for resetting Cursor IDE device identifiers on macOS.
 3. Run in Terminal:
 
 ```bash
-bash reset.sh
+curl -fsSL https://raw.githubusercontent.com/MandemSec/reset-cursor-on-mac/refs/heads/main/reset.sh | bash
 ```
 
 4. Start Cursor and sign in with a new account
@@ -29,7 +29,7 @@ bash reset.sh
 To restore:
 
 ```bash
-bash reset.sh --restore
+curl -fsSL https://raw.githubusercontent.com/MandemSec/reset-cursor-on-mac/refs/heads/main/reset.sh | bash --restore
 ```
 
 ### Force Quit
