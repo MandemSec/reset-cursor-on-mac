@@ -72,6 +72,6 @@ SOFTWARE.
 
 ## Author
 
-- Twitter: [@siina42069](https://twitter.com/siina42069)
+- Twitter: [@sina42069](https://twitter.com/sina42069)
 - GitHub: [@mandemsec](https://github.com/mandemsec)
-- Date: Sun Mar 16 17:04:20 UTC 2025
+
